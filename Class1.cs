@@ -8,5 +8,6 @@ namespace RemoteProject
         int x200 = 200;
         int x300 = 300;
         int x400 = 400;
+        int x500 = 500;
     }
 }
