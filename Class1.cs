@@ -5,5 +5,6 @@ namespace RemoteProject
     {
         int x = 11;
         int x100 = 100;
+        int x200 = 200;
     }
 }
